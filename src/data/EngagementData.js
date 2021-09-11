@@ -23,7 +23,7 @@ export const EngagementData = [{
     {
         name: "Parth Shingari",
         designation: " Technical",
-        imageURL: "/teamImages/engagement/Parth.jpg",
+        imageURL: "https://i.ibb.co/BjLGq67/Parth-Shingari.jpg",
         LinkedIn: "https://www.linkedin.com/in/parth-shingari-28ps2000/",
         Twitter: "https://twitter.com/ParthShingari",
     },
